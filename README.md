@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Scientist</h3>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 </a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ksiva0&label=Profile%20views&color=0e75b6&style=flat" alt="ksiva0" /> </p>
